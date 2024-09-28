@@ -1,0 +1,5 @@
+C:\Users\ipacheco\source\repos\TestDevBackJr\ClasesCore\libLogIn\bin\Debug\libLogIn.dll
+C:\Users\ipacheco\source\repos\TestDevBackJr\ClasesCore\libLogIn\bin\Debug\libLogIn.pdb
+C:\Users\ipacheco\source\repos\TestDevBackJr\ClasesCore\libLogIn\obj\Debug\libLogIn.csproj.CoreCompileInputs.cache
+C:\Users\ipacheco\source\repos\TestDevBackJr\ClasesCore\libLogIn\obj\Debug\libLogIn.dll
+C:\Users\ipacheco\source\repos\TestDevBackJr\ClasesCore\libLogIn\obj\Debug\libLogIn.pdb
