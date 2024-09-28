@@ -1,0 +1,6 @@
+C:\Users\ipacheco\source\repos\TestDevBackJr\ClasesCore\libEmpleados\bin\Debug\libEmpleados.dll
+C:\Users\ipacheco\source\repos\TestDevBackJr\ClasesCore\libEmpleados\bin\Debug\libEmpleados.pdb
+C:\Users\ipacheco\source\repos\TestDevBackJr\ClasesCore\libEmpleados\obj\Debug\libEmpleados.csproj.AssemblyReference.cache
+C:\Users\ipacheco\source\repos\TestDevBackJr\ClasesCore\libEmpleados\obj\Debug\libEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\ipacheco\source\repos\TestDevBackJr\ClasesCore\libEmpleados\obj\Debug\libEmpleados.dll
+C:\Users\ipacheco\source\repos\TestDevBackJr\ClasesCore\libEmpleados\obj\Debug\libEmpleados.pdb
